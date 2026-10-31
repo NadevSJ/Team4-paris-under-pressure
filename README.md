@@ -40,6 +40,8 @@ This repo holds everything our team produced for the brief. No code was required
 
 Each journey follows the worksheet format: user and goal, starting point, main flow in order, one exception and how the user carries on, end result, and screens to sketch. In the wireframes, solid arrows are the main path and dashed arrows are the exception.
 
+All four journeys are also in one editable file: [team4-wireframes.excalidraw](excalidraw/team4-wireframes.excalidraw) · Nethmi. To view or edit it, download it and open it at [excalidraw.com](https://excalidraw.com) (☰ menu → Open).
+
 ---
 
 ## Sample case
@@ -77,6 +79,7 @@ Where the brief left things open, our assumptions are listed in the feature prop
 ```
 docs/         Task 1 and the four journey write-ups
 wireframes/   One PNG per journey
+excalidraw/   Editable Excalidraw file with all four journeys
 notes/        Kickoff decisions, client meeting notes and client answers
 ```
 
@@ -85,6 +88,6 @@ notes/        Kickoff decisions, client meeting notes and client answers
 ## How we worked
 
 - Kickoff session to agree on users, platforms, sign-up checks and evidence rules ([kickoff decisions](notes/kickoff-decisions.md))
-- Client requirement meeting (Mahesh and Adrina), then decisions updated from the client notes
+- Client requirement meeting (Mahesh and Adrina), then decisions updated from the client notes ([meeting notes](notes/client-meeting-notes.pdf), [client answers](notes/client-answers.md))
 - Each member worked on their own branch and opened a pull request, merged into `main` by the project manager
 - Final review of every write-up against its wireframes before submission
