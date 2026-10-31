@@ -84,7 +84,7 @@ notes/        Kickoff decisions, client meeting notes and client answers
 
 ## How we worked
 
-- Kickoff session to agree on users, platforms, sign-up checks and evidence rules ([kickoff decisions](notes/kickoff-decisions.pdf))
+- Kickoff session to agree on users, platforms, sign-up checks and evidence rules ([kickoff decisions](notes/kickoff-decisions.md))
 - Client requirement meeting (Mahesh and Adrina), then decisions updated from the client notes
 - Each member worked on their own branch and opened a pull request, merged into `main` by the project manager
 - Final review of every write-up against its wireframes before submission
